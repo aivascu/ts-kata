@@ -1,0 +1,2 @@
+# TypeScript Kata template
+

@@ -1,0 +1,12 @@
+root = true
+
+
+[*]
+charset = utf-8
+end_of_line = lf
+
+[*.ts]
+tab_width = 2
+indent_size = 2
+indent_style = space
+trim_trailing_whitespace = true
