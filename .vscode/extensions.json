@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "orta.vscode-jest",
+        "kavod-io.vscode-jest-test-adapter",
+        "hbenl.vscode-test-explorer"
+    ]
+}
