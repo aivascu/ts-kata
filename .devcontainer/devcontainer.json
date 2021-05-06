@@ -17,7 +17,10 @@
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-		"dbaeumer.vscode-eslint"
+		"dbaeumer.vscode-eslint",
+		"kavod-io.vscode-jest-test-adapter",
+		"hbenl.vscode-test-explorer",
+		"orta.vscode-jest"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
