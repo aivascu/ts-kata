@@ -1,5 +1,7 @@
 # TypeScript Kata template
 
+[![Node CI](https://github.com/aivascu/ts-kata/actions/workflows/nodejs.yml/badge.svg?branch=master)](https://github.com/aivascu/ts-kata/actions/workflows/nodejs.yml)
+
 This repository is a simple TypeScript project for experimenting with coding Katas.
 
 ## Summary
